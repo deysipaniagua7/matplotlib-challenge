@@ -12,7 +12,7 @@ Module Overview: For this study, we were asked to compare the performance of Cap
 8) Create a scatter plot for the Mouse Weight vs Tumor Volume Average,
 9) and calculate correlation and regression.
 
-Please note I used the following resources:
+Please note, I used the following resources:
 
 stackoverflow:
 
